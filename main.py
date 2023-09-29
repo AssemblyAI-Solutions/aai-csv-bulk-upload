@@ -48,4 +48,4 @@ def webhook():
         return jsonify({"error": "Invalid webhook data"}), 400
 
 if __name__ == '__main__':
-    app.run(debug=True, host='localhost', port=5000)
+    app.run(debug=True, host='localhost', port=5002)

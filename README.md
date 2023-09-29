@@ -30,9 +30,9 @@ On Windows (Command Prompt): `venv\Scripts\activate`
 
 5. **Create an Ngrok Connection:**
 - Open a new terminal window.
-- Start an Ngrok connection on port 5000:
+- Start an Ngrok connection on port 5002:
   ```
-  ngrok http 5000
+  ngrok http 5002
   ```
 
 6. **Create a `.env` File:**
