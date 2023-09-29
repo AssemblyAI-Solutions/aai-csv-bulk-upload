@@ -1,5 +1,7 @@
 # AssemblyAI Transcript Downloader
 
+## [Video Walkthrough](https://www.veed.io/view/a562623d-b689-4e5c-81b6-5e9f77cf31ad?panel=share)
+
 This repository contains a Python application that takes a CSV file with a list of audio/video URLs as input and retrieves the transcript of each audio/video URL, saving them as text files in a folder named `transcripts_txt_files`. It accomplishes this task by utilizing the AssemblyAI Transcript API.
 
 ## Usage Instructions
